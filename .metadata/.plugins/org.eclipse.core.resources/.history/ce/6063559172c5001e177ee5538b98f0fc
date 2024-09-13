@@ -1,0 +1,14 @@
+package p1;
+
+public class A {
+	A(){
+		System.out.println("noArgs constructor");
+	}
+	 A(int x){
+		 System.out.println("this is constructor"+x);
+	 }
+	public static void main(String[] args) {
+		A a1 = new A(1000);
+		A a2 = new A(2000);
+	}
+}       

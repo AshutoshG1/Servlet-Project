@@ -1,0 +1,11 @@
+127.0.0.1 - - [01/Feb/2024:11:56:56 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Feb/2024:11:57:31 +0530] "GET /Registration/login.jsp HTTP/1.1" 200 296
+0:0:0:0:0:0:0:1 - - [01/Feb/2024:11:57:35 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Feb/2024:11:58:51 +0530] "GET /Registration/login.jsp HTTP/1.1" 200 336
+0:0:0:0:0:0:0:1 - - [01/Feb/2024:11:59:06 +0530] "POST /Registration/verifyLogin HTTP/1.1" 200 -
+127.0.0.1 - - [01/Feb/2024:12:00:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Feb/2024:12:01:00 +0530] "GET /Registration/login.jsp HTTP/1.1" 200 336
+0:0:0:0:0:0:0:1 - - [01/Feb/2024:12:01:25 +0530] "POST /Registration/verifyLogin HTTP/1.1" 200 -
+127.0.0.1 - - [01/Feb/2024:12:02:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Feb/2024:12:02:58 +0530] "GET /Registration/login.jsp HTTP/1.1" 200 336
+0:0:0:0:0:0:0:1 - - [01/Feb/2024:12:03:09 +0530] "POST /Registration/verifyLogin HTTP/1.1" 200 -

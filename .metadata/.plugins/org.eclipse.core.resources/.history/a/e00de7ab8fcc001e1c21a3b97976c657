@@ -1,0 +1,13 @@
+package p1;
+
+public class A {
+	public static void main(String[] args) {
+		int x = 100;
+		int y = -20;
+		int z = 500;
+		if(x>y && x>z) {
+			System.out.println(x);
+		}
+	}
+	
+}      

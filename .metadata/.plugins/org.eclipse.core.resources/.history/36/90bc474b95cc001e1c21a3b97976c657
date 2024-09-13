@@ -1,0 +1,16 @@
+package p1;
+
+public class A {
+	public static void p(int n) {
+		int x, y, flag;
+		for(x=1;x<=n;x++) {
+			if(x==0 || x==1) {
+				continue;
+			}
+			flag = 1;
+		}
+	}
+	public static void main(String[] args) {
+		p(50);
+	}
+}

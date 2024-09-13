@@ -1,0 +1,19 @@
+package p1;
+
+public class A {
+	public static void main(String[] args) {
+		int x = 15;
+		int y = 25;
+		System.out.println(gcd(x,y));
+	}
+
+	private static int gcd(int x, int y) {
+		if(y == 0) {
+			return x;
+		}
+		return gcd(y, x%y);
+	}
+
+	
+	
+}      

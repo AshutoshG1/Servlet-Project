@@ -1,0 +1,10 @@
+package p1;
+
+public class A {
+	public static void main(String[] args) {
+		String x = "1010";
+		String y = "0011";
+		System.out.println(add(x,y));
+	}
+	
+}      

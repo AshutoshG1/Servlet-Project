@@ -1,0 +1,17 @@
+package p1;
+
+public class A {
+	public static void main(String[] args) {
+		int x = 25;
+		int y = 35;
+		System.out.println(gcd(x,y));
+	}
+
+	private static int gcd(int x, int y) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+	
+}      

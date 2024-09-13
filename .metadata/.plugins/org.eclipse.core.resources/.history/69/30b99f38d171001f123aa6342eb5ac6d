@@ -1,0 +1,8 @@
+package app_java_3;
+import p1.*;
+public class B {
+	public static void main(String[] args) {
+		
+	}
+	
+}

@@ -1,0 +1,22 @@
+package p1;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class B {
+	public static void main(String[] args) {
+		int[] a = {1,2,3,4,5};
+		int[] b = {6,7,8,9,10};
+		int c = a.length+b.length;
+		int d[] = new int[c];
+		for(int i=0;i<a.length;i++) {
+			d[i]= a[i];
+		}
+		for(int i=0;i<b.length;i++) {
+			d[a.length+i]= a[i];
+		}
+		for(int i=0;i<c;i++) {
+			System.out.print(d[i]+" ");
+		}
+	}
+}

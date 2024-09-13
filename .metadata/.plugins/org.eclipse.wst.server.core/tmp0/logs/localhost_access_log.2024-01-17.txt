@@ -1,0 +1,8 @@
+127.0.0.1 - - [17/Jan/2024:16:05:59 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [17/Jan/2024:16:17:58 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:16:17:59 +0530] "GET /web_app_1/new_registration.html HTTP/1.1" 200 151
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:16:18:01 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:16:18:26 +0530] "GET /web_app_1/new_registration.html HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:16:18:28 +0530] "GET /web_app_1/new_registration.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:16:18:29 +0530] "GET /web_app_1/new_registration.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:16:19:31 +0530] "GET /web_app_1/new_registration.html HTTP/1.1" 200 149

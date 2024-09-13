@@ -1,0 +1,16 @@
+package p1;
+
+public class A {
+	public static void main(String[] args) {
+		int a = 10;
+		int b = 15;
+		int answer = (a>b)?a:b;
+		while(true) {
+			if(answer%a==0 && answer%b==0) {
+				break;
+			}
+			answer++;
+		}
+	}
+	
+}      

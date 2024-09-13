@@ -1,0 +1,18 @@
+package p1;
+
+public class A {
+	A(){
+		System.out.println("default constructor");
+	}
+	A(int x, int y){
+		System.out.println("double constructor "+x+y);
+	}
+	A(int x){
+		this();
+		System.out.println("single argument constructor "+x);
+	}
+	public static void main(String[] args) {
+		A a1 = new A(100);
+	}
+	
+}

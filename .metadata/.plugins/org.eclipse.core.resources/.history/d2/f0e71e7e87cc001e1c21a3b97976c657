@@ -1,0 +1,16 @@
+package p1;
+
+public class A {
+	public static void test() {
+		System.out.println("static method ");
+		A a1 = new A();
+		a1.test1();
+	}
+	public void test1() {
+		System.out.println("non static method");
+	}
+	public static void main(String[] args) {
+		A.test();
+	}
+	
+} 

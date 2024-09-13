@@ -1,0 +1,13 @@
+127.0.0.1 - - [02/Feb/2024:12:22:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:23:00 +0530] "GET /Registration/login.jsp HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:23:08 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:23:37 +0530] "POST /Registration/verifyLogin HTTP/1.1" 200 369
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:29:38 +0530] "GET /Registration/WEB-INF/views/create_registration.jsp HTTP/1.1" 404 682
+127.0.0.1 - - [02/Feb/2024:12:32:41 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:32:43 +0530] "GET /Registration/login.jsp HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:33:10 +0530] "POST /Registration/verifyLogin HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:35:56 +0530] "POST /Registration/verifyLogin HTTP/1.1" 200 159
+127.0.0.1 - - [02/Feb/2024:12:40:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:40:05 +0530] "GET /Registration/login.jsp HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:40:20 +0530] "POST /Registration/verifyLogin HTTP/1.1" 200 395
+0:0:0:0:0:0:0:1 - - [02/Feb/2024:12:41:35 +0530] "POST /Registration/verifyLogin HTTP/1.1" 200 419

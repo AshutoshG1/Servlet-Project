@@ -1,0 +1,11 @@
+package p1;
+
+public class A {
+	 A(){
+		 System.out.println("this is constructor");
+	 }
+	public static void main(String[] args) {
+		A a1 = new A();
+		A a2 = new A();
+	}
+}       

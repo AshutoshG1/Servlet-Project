@@ -1,0 +1,10 @@
+package p1;
+
+import java.util.Arrays;
+
+public class B {
+	public static void main(String[] args) {
+		String str = "java peveloper";
+		System.out.println(str.charAt(0));
+	}
+}

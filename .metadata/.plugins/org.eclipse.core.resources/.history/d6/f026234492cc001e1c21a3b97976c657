@@ -1,0 +1,14 @@
+package p1;
+
+public class A {
+	public static void main(String[] args) {
+		int x = 25;
+		int y = 15;
+		System.out.println(gcd(x,y));
+	}
+
+	
+
+	
+	
+}      

@@ -1,0 +1,11 @@
+package p1;
+
+public class A {
+	  A(int x){
+		  System.out.println("default constructor"+ x);
+		 
+	  }
+	  public static void main(String args[]) {
+		  A a1 = new A(12);
+	  }
+}       

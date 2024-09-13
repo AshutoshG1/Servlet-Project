@@ -1,0 +1,18 @@
+package p1;
+
+public class A {
+	public static void main(String[] args) {
+		String x = "1111";
+		String y = "1001";
+		System.out.println(add(x,y));
+	}
+
+	private static String add(String x, String y) {
+		int num1 = Integer.parseInt(x, 2);
+		int num2 = Integer.parseInt(y, 2);
+		int result = num1 + num2;
+		return Integer.toBinaryString(result);
+		
+	}
+	
+}      
